@@ -1,0 +1,253 @@
+body {
+  width: auto;
+  height: auto;
+  background-color: darkgoldenrod;
+  background-image: url("https://i.ibb.co/hMgq6z7/grizz.png");
+  
+  
+  
+}
+
+#theBrown {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  background-color: antiquewhite;
+  border-radius: 50px 0 50px 0px;
+  text-shadow: 3px 3px 3px orange;
+  margin-top: auto;
+  align-items: center;
+  font-family: 'Gridlocked', sans-serif;
+                                                
+
+}
+
+#aboutBrown {
+  display: flexbox;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  background-color: black;
+  width: 300px;
+  height: 50px;
+  border-radius: 0px 50px 0 50px;
+  margin-top: auto;
+  color: antiquewhite;
+  margin-bottom:;
+  border: 5px antiquewhite solid;
+  font-family: 'Gridlocked', sans-serif;
+  text-shadow: 3px 3px 3px orange;
+
+}
+
+#introduction {
+  display: flex;
+  position: relative ;
+  justify-content: center; 
+  flex-wrap: nowrap;
+  height: 250px;
+  width: 200px;
+  text-align: center;
+  background-color: burlywood;
+  flex-direction:column;
+  margin: auto;
+  border: 5px solid antiquewhite;
+  padding: 2px 2px 2px 2px;
+  border-radius: 20px 5px 20px 5px;
+  margin-top: 0;
+}
+
+#species{
+display: flex;
+  position: relative;
+  background-color: burlywood;
+  width: 100px;
+  height: 25px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border:5px solid antiquewhite;
+  margin: auto;
+  border-radius: 3px 3px 20px 20px;
+  font-family: 'Gridlocked', sans-serif;
+  text-shadow: 3px 3px 3px orange;
+}
+
+#unordered {
+  display: flex;
+  position: relative;
+  background-color: burlywood;
+  width: 200px;
+  height: 150px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border:5px solid antiquewhite;
+  margin: auto;
+  border-radius: 100px 100px 100px 100px;
+}
+
+#features {
+  display: flex;
+  position: relative;
+  background-color: burlywood;
+  width: 100px;
+  height: 25px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border:5px solid antiquewhite;
+  margin: auto;
+  border-radius: 15px 15px 20px 20px;
+  font-family: 'Gridlocked', sans-serif;
+  text-shadow: 3px 3px 3px orange;
+}
+
+#bear {
+  display: flex;
+  position: relative ;
+  justify-content: center; 
+  flex-wrap: nowrap;
+  height: 250px;
+  width: 200px;
+  text-align: center;
+  background-color: burlywood;
+  flex-direction:column;
+  margin: auto;
+  border: 5px solid antiquewhite;
+  padding: 2px 2px 2px 2px;
+  border-radius: 20px 5px 20px 5px;
+  margin-top: 0;
+}
+
+#habitat {
+  display: flex;
+  position: relative;
+  background-color: burlywood;
+  width: 100px;
+  height: 35px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border:5px solid antiquewhite;
+  margin: auto;
+  border-radius: 15px 15px 20px 20px;
+  font-family: 'Gridlocked', sans-serif;
+  text-shadow: 3px 3px 3px orange;
+}
+
+#countries {
+display: flex;
+  position: relative;
+  background-color: burlywood;
+  width: 350px;
+  height: 50px;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  border:5px solid antiquewhite;
+  margin: auto;
+  border-radius: 15px 15px 20px 20px;
+  font-family: 'Gridlocked', sans-serif;
+  text-shadow: 3px 3px 3px orange
+}
+
+#ordered {
+display: flex;
+  position: relative;
+  background-color: burlywood;
+  width: 100px;
+  height: 200px;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  border:5px solid antiquewhite;
+  margin: auto;
+  border-radius: 15px 45px 20px 20px;
+  
+  
+  text-align:start;
+}
+
+#small {
+  display: flex;
+  position: relative;
+  background-color: burlywood;
+  width: 350px;
+  height: 50px;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  border:5px solid antiquewhite;
+  margin: auto;
+  border-radius: 15px 15px 20px 20px;
+  font-family: 'Gridlocked', sans-serif;
+  text-shadow: 3px 3px 3px orange;
+}
+
+#some {
+  display: flex;
+  position: relative;
+  background-color: burlywood;
+  width: 370px;
+  height: 100px;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  border:5px solid antiquewhite;
+  margin: auto;
+  border-radius: 15px 45px 20px 20px;
+  text-align:center;
+}
+#media {
+display: flex;
+  position: relative;
+  background-color: burlywood;
+  width: 150px;
+  height: 50px;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  border:5px solid antiquewhite;
+  margin: auto;
+  border-radius: 15px 15px 20px 20px;
+  font-family: 'Gridlocked', sans-serif;
+  text-shadow: 3px 3px 3px orange;
+}
+
+#img {
+display: flex;
+  position: relative;
+  background-color: burlywood;
+  width: 300px;
+  height: 300px;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  border:5px solid antiquewhite;
+  margin: auto;
+  border-radius: 15px 15px 20px 20px;
+  
+  
+}
+
+#vid {
+position: relative;
+  background-color: burlywood;
+  width: 350px;
+  height: 300px;
+  justify-content:center;
+  align-items: center;
+  flex-direction: column;
+  border:5px solid antiquewhite;
+  margin: auto;
+  border-radius: 15px 15px 20px 20px;
+}
+
+div {
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+}
